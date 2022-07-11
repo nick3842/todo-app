@@ -1,5 +1,5 @@
 let todos: todo[] = []
-let counter = 0
+let counter = 1
 
 type todo = {
   todo: string
